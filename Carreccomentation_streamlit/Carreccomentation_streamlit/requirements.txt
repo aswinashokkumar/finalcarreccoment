@@ -1,0 +1,3 @@
+pandas==1.5.3       # For handling the dataset (data manipulation)
+streamlit==1.26.0   # For creating the web app interface
+numpy==1.24.3       # Used internally by pandas
